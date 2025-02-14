@@ -15,7 +15,7 @@ const app = express();
 
 const ALLOWED_ORIGINS = [
   "http://localhost:3000",
-  "http://localhost:6000",
+  "https://shoutout.kairoshof.com/",
   "http://localhost:5000",
   "http://localhost:3001",
   "https://v0.dev/chat/axios-api-client-Ss2ji5D6t2T"
