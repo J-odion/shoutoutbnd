@@ -48,7 +48,6 @@ const PORT = process.env.PORT;
 
 
 app.use("/api/shoutouts", require("./routes/shoutoutRoutes"));
-app.use("/api/admin", require("./routes/adminRoutes"));
 
 app.use(errorHandler);
 
