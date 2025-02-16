@@ -19,9 +19,7 @@ const ALLOWED_ORIGINS = [
   "https://shoutout.kairoshof.com/",
   "http://shoutout-5m9fl0821-emmanuel-jafarus-projects-dc5c5a7f.vercel.app/",
   "https://shoutout-5m9fl0821-emmanuel-jafarus-projects-dc5c5a7f.vercel.app/",
-  "http://localhost:5000",
-  "http://localhost:3001",
-  "https://v0.dev/chat/axios-api-client-Ss2ji5D6t2T"
+  "*",
 ];
 
 // Middleware
